@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello there! 👋
 
+My name is Jiatao and I enjoy programming.
 <!--
 **Jiatao7/Jiatao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
